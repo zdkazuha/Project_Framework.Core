@@ -1,5 +1,5 @@
 Щоб зайти ведіть
-User Name
+User Name ::
   UserName 1 or 2 or 3 or 4 or 5
-Password 
+Password ::
   Password 1 or 2 or 3 or 4 or 5
