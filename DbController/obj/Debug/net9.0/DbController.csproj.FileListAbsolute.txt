@@ -1,0 +1,14 @@
+C:\Users\SystemX\source\repos\DbController\bin\Debug\net9.0\DbController.deps.json
+C:\Users\SystemX\source\repos\DbController\bin\Debug\net9.0\DbController.runtimeconfig.json
+C:\Users\SystemX\source\repos\DbController\bin\Debug\net9.0\DbController.dll
+C:\Users\SystemX\source\repos\DbController\bin\Debug\net9.0\DbController.pdb
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\DbController.csproj.AssemblyReference.cache
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\DbController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\DbController.AssemblyInfoInputs.cache
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\DbController.AssemblyInfo.cs
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\DbController.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\DbController.dll
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\refint\DbController.dll
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\DbController.pdb
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\DbController.genruntimeconfig.cache
+C:\Users\SystemX\source\repos\DbController\obj\Debug\net9.0\ref\DbController.dll
